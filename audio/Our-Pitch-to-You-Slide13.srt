@@ -1,0 +1,16 @@
+1
+00:00:01,115 --> 00:00:04,331
+The "Slides Builder" also has deep integration with YouVersion,
+
+2
+00:00:04,609 --> 00:00:15,104
+along with a YouVersion Manager with more capabilities. The YouVersion Tab in the "Slides Builder" assists the user to review the versions, books, and chapters to include in the chat.
+
+3
+00:00:16,056 --> 00:00:20,642
+From there, the user can add verses, the selected chapter or all chapters from a given book.
+
+4
+00:00:21,454 --> 00:00:31,985
+There is also a MCP Server for YouVersion for more advanced queries into YouVersion that follows the standards of the various AI providers, like Gloo AI, ChatGPT, or Claude.
+

@@ -1,0 +1,16 @@
+1
+00:00:01,115 --> 00:00:04,992
+The "Ultimate PowerPoint Companion App" allows one to do more with PowerPoint.
+
+2
+00:00:05,166 --> 00:00:11,204
+In particular, it handles creating voice overs with AI to where I cloned my voice for this presentation.
+
+3
+00:00:11,714 --> 00:00:16,149
+It has enhanced editing for displaying and following the rules of scripture.
+
+4
+00:00:16,962 --> 00:00:28,665
+It can also handle cross-reference information that comes from the YouVersion integration. It is good to note that this app will be free and open source for personal and non-profit organizations.
+

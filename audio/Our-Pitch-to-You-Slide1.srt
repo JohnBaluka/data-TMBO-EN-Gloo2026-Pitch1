@@ -1,0 +1,8 @@
+1
+00:00:01,300 --> 00:00:02,403
+Meet people where they are.
+
+2
+00:00:02,728 --> 00:00:09,369
+This is the Multimodal Bible. You can follow along with this presentation on TheMultimodalBible.org web site.
+

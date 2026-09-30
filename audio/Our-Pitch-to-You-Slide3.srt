@@ -1,0 +1,4 @@
+1
+00:00:00,058 --> 00:00:16,590
+We are building The Multimodal Bible, which helps people read, listen to, watch, and explore the Bible in one integrated experience instead of jumping between different apps, websites, videos, and podcasts. You don't have to change how you learn to fit the Bible. The Bible adapts to how you want to experience it.
+
