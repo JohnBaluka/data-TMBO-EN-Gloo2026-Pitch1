@@ -40,7 +40,7 @@
   },
   {
     "index": 2,
-    "menuTitle": "What if the Bible could bring all of those experiences together?",
+    "menuTitle": "The Bible. Read it. Hear it. Watch it. Experience it. Return to it.",
     "pngSrc": "images/Our-Pitch-to-You-Slide2.png",
     "svgSrc": "images/Our-Pitch-to-You-Slide2.svg",
     "svgContent": "",
@@ -114,7 +114,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide3.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide3.srt",
-    "videoStart": 31.901
+    "videoStart": 48.653
   },
   {
     "index": 4,
@@ -153,7 +153,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide4.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide4.srt",
-    "videoStart": 50.491
+    "videoStart": 67.243
   },
   {
     "index": 5,
@@ -192,7 +192,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide5.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide5.srt",
-    "videoStart": 88.227
+    "videoStart": 104.97899999999998
   },
   {
     "index": 6,
@@ -231,7 +231,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide6.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide6.srt",
-    "videoStart": 95.047
+    "videoStart": 111.79899999999998
   },
   {
     "index": 7,
@@ -270,7 +270,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide7.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide7.srt",
-    "videoStart": 118.189
+    "videoStart": 134.94099999999997
   },
   {
     "index": 8,
@@ -309,7 +309,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide8.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide8.srt",
-    "videoStart": 128.351
+    "videoStart": 145.10299999999995
   },
   {
     "index": 9,
@@ -348,7 +348,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide9.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide9.srt",
-    "videoStart": 169.779
+    "videoStart": 184.89299999999994
   },
   {
     "index": 10,
@@ -387,7 +387,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide10.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide10.srt",
-    "videoStart": 184.643
+    "videoStart": 199.75699999999995
   },
   {
     "index": 11,
@@ -426,7 +426,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide11.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide11.srt",
-    "videoStart": 199.274
+    "videoStart": 214.38799999999995
   },
   {
     "index": 12,
@@ -465,7 +465,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide12.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide12.srt",
-    "videoStart": 229.939
+    "videoStart": 245.05299999999994
   },
   {
     "index": 13,
@@ -504,7 +504,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide13.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide13.srt",
-    "videoStart": 246.78799999999998
+    "videoStart": 261.90199999999993
   },
   {
     "index": 14,
@@ -543,7 +543,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide14.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide14.srt",
-    "videoStart": 280.77299999999997
+    "videoStart": 283.59099999999995
   },
   {
     "index": 15,
@@ -582,7 +582,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide15.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide15.srt",
-    "videoStart": 290.08399999999995
+    "videoStart": 292.90199999999993
   },
   {
     "index": 16,
@@ -621,7 +621,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide16.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide16.srt",
-    "videoStart": 298.25999999999993
+    "videoStart": 301.0779999999999
   },
   {
     "index": 17,
@@ -660,7 +660,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide17.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide17.srt",
-    "videoStart": 332.4769999999999
+    "videoStart": 325.74099999999993
   },
   {
     "index": 18,
@@ -699,6 +699,6 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide18.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide18.srt",
-    "videoStart": 335.0109999999999
+    "videoStart": 334.6139999999999
   }
 ]
