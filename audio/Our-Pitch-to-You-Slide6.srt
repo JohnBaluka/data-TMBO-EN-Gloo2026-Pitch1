@@ -1,8 +1,8 @@
 1
-00:00:00,070 --> 00:00:04,284
+00:00:00,070 --> 00:00:04,481
 We must consider the content consumers, as well as, the content creators when it
 
 2
-00:00:04,319 --> 00:00:08,371
-comes to ubiquitous tools, AI integrations, and platforms.
+00:00:04,527 --> 00:00:08,916
+comes to common tools, AI integrations, and existing platforms.
 
