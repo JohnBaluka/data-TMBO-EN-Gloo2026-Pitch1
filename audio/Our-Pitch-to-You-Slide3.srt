@@ -1,12 +1,12 @@
 1
-00:00:00,070 --> 00:00:04,122
+00:00:00,070 --> 00:00:03,936
 The Multimodal Bible picks up where many other online experiences fall short.
 
 2
-00:00:04,156 --> 00:00:08,927
+00:00:04,261 --> 00:00:08,545
 It supports all four learning styles which is critical to meeting people where they are.
 
 3
-00:00:09,044 --> 00:00:11,215
+00:00:08,986 --> 00:00:11,088
 It is also responsive on mobile devices.
 
