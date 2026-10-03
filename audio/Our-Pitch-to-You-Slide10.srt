@@ -1,8 +1,8 @@
 1
-00:00:01,300 --> 00:00:04,075
-Over 500 million people worldwide use PowerPoint.
+00:00:00,070 --> 00:00:03,146
+The "Slides Builder" also has deep integration with YouVersion.
 
 2
-00:00:04,516 --> 00:00:12,631
-Also, PowerPoint has an easy to use the built-in feature to create a voice over and save the recorded presentation to a video that can be uploaded to YouTube.
+00:00:03,320 --> 00:00:08,057
+The YouVersion Tab assists the user to review the books, and chapters to include in the chat.
 

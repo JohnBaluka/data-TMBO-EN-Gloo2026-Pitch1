@@ -1,8 +1,12 @@
 1
-00:00:00,058 --> 00:00:05,213
-The Multimodal Bible provides the experience that is optimized for reading, listening or watching scripture.
+00:00:00,035 --> 00:00:02,158
+Over 500 million people use PowerPoint.
 
 2
-00:00:05,817 --> 00:00:09,462
-Supporting multiple modes of learning is critical to meeting people where they are.
+00:00:02,334 --> 00:00:06,002
+It also has a feature to create a voice over and save it as a video.
+
+3
+00:00:06,444 --> 00:00:09,718
+The ability to create interactive experiences keeps getting better.
 

@@ -1,8 +1,4 @@
 1
-00:00:00,070 --> 00:00:05,863
-The "Slide Site Designer" adds the extra polish to organize, preview, and then publish your site.
-
-2
-00:00:06,142 --> 00:00:09,311
-Note: TheMultimodalBible.org site and data is hosted for free.
+00:00:00,035 --> 00:00:03,994
+Our team brings together expertise in technology, ministry, and education.
 

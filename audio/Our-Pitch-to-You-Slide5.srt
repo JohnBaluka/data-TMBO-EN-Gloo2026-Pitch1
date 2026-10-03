@@ -1,8 +1,12 @@
 1
-00:00:01,115 --> 00:00:02,345
-Let's backup a little bit. We have
+00:00:00,070 --> 00:00:07,906
+In this demo, suppose I want to experience Matthew chapter 9. I can read the Scripture and interact with the content at my own pace.
 
 2
-00:00:02,368 --> 00:00:03,820
-already taken the Bible to the Web.
+00:00:08,510 --> 00:00:11,296
+I can listen and follow along while the passage with a narration.
+
+3
+00:00:11,575 --> 00:00:20,573
+Or I can watch as the Scripture come alive as a slide show or a video on YouTube. Same Scripture. One experience. You choose how you receive it.
 

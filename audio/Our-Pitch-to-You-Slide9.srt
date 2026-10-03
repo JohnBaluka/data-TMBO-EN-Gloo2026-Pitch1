@@ -1,8 +1,16 @@
 1
-00:00:00,383 --> 00:00:06,861
-In order to truly meet people where they are, that means we must consider the content consumers, as well as, the content creators.
+00:00:00,070 --> 00:00:03,344
+The "Slides Builder" helps you use AI to create your slides.
 
 2
-00:00:07,338 --> 00:00:12,864
-'Ubiquitous' means present, appearing, or found everywhere at the same time, which is how we think of the entire platform.
+00:00:03,947 --> 00:00:06,385
+Gloo AI is one of the providers you can select.
+
+3
+00:00:06,535 --> 00:00:08,591
+The chat interface is what you would expect.
+
+4
+00:00:08,974 --> 00:00:12,736
+The deep understanding of creating slides is what sets this interface apart.
 

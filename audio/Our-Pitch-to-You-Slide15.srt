@@ -1,8 +1,4 @@
 1
-00:00:00,325 --> 00:00:00,964
-In summary,
-
-2
-00:00:00,987 --> 00:00:06,176
-your Ministry can also Create, Publish, and Host a website – just like the MultimodalBible.org.
+00:00:00,081 --> 00:00:02,171
+Go to TheMultimodalBible.org today.
 

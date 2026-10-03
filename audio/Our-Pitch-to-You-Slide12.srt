@@ -1,16 +1,8 @@
 1
-00:00:00,070 --> 00:00:03,077
-The "Slides Builder" helps you use AI to create your slides.
+00:00:00,035 --> 00:00:00,568
+In summary,
 
 2
-00:00:03,460 --> 00:00:05,875
-Gloo AI is one of the providers you can select.
-
-3
-00:00:06,200 --> 00:00:09,706
-The chat interface is what you would expect from ChatGPT or Claude.
-
-4
-00:00:11,006 --> 00:00:14,849
-The deep understanding of creating slides is what sets this interface apart.
+00:00:00,592 --> 00:00:06,432
+your Ministry can also Create, Publish, and Host a website – just like TheMultimodalBible.org.
 

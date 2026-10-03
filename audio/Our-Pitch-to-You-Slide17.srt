@@ -1,4 +1,0 @@
-1
-00:00:01,300 --> 00:00:08,173
-Our team brings together expertise in technology and AI, multimodal design, ministry, and education.
-

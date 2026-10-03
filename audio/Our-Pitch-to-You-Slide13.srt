@@ -1,12 +1,16 @@
 1
-00:00:00,383 --> 00:00:03,762
-The "Slides Builder" also has deep integration with YouVersion,
+00:00:00,058 --> 00:00:01,683
+This means someone opening the Bible
 
 2
-00:00:03,971 --> 00:00:13,955
-along with a YouVersion Manager with more capabilities. The YouVersion Tab in the "Slides Builder" assists the user to review the versions, books, and chapters to include in the chat.
+00:00:01,718 --> 00:00:05,410
+for the first time — or someone who has studied Scripture for a lifetime -
 
 3
-00:00:14,338 --> 00:00:19,689
-From there, the user can add verses, the selected chapter or all chapters from a given book.
+00:00:05,979 --> 00:00:10,380
+can experience Scripture in the way that is best optimized on how they learn.
+
+4
+00:00:10,821 --> 00:00:23,290
+We need the faith community who believe the next generation of Bible engagement should be more accessible, more immersive, and more personal. The Multimodal Bible. One Bible. Many ways to experience it.
 
