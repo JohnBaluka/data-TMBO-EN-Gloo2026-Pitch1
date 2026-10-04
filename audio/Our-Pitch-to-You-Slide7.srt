@@ -1,12 +1,12 @@
 1
-00:00:00,035 --> 00:00:02,158
-Over 500 million people use PowerPoint.
+00:00:00,046 --> 00:00:04,434
+Why PowerPoint? It gives ministries a familiar, accessible way to create their own content.
 
 2
-00:00:02,334 --> 00:00:06,002
-It also has a feature to create a voice over and save it as a video.
+00:00:04,876 --> 00:00:07,872
+It also lets you add narration and turn your slides into a video,
 
 3
-00:00:06,444 --> 00:00:09,718
-The ability to create interactive experiences keeps getting better.
+00:00:08,081 --> 00:00:11,552
+and the ability to create interactive experiences keeps getting better.
 

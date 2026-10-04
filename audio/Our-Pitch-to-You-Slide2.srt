@@ -1,24 +1,24 @@
 1
-00:00:00,070 --> 00:00:00,662
+00:00:00,058 --> 00:00:00,778
 You can read,
 
 2
-00:00:00,720 --> 00:00:01,149
+00:00:00,894 --> 00:00:01,335
 listen, or
 
 3
-00:00:01,196 --> 00:00:03,924
-watch the Bible? When engaging with Scripture, some
+00:00:01,393 --> 00:00:04,714
+watch the Bible. When experiencing Scripture, sometimes we want to
 
 4
-00:00:03,959 --> 00:00:06,002
-also want more interactivity
+00:00:04,772 --> 00:00:06,176
+see the story,
 
 5
-00:00:06,072 --> 00:00:06,711
-to emphasize
+00:00:06,200 --> 00:00:06,908
+emphasize, and
 
 6
-00:00:06,745 --> 00:00:11,994
-Scripture. The Bible can be overwhelming. We need to have a better way to accommodate the four learning styles.
+00:00:06,954 --> 00:00:11,935
+explore - while keeping Scripture at the center. What if all of that came together in one experience?
 

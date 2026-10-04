@@ -1,12 +1,12 @@
 1
-00:00:00,070 --> 00:00:03,936
-The Multimodal Bible picks up where many other online experiences fall short.
+00:00:00,070 --> 00:00:02,438
+The Multimodal Bible brings Scripture to life by
 
 2
-00:00:04,261 --> 00:00:08,545
-It supports all four learning styles which is critical to meeting people where they are.
+00:00:02,485 --> 00:00:06,873
+letting you read it, hear it, and watch it - all in one Scripture-centered experience.
 
 3
-00:00:08,986 --> 00:00:11,088
-It is also responsive on mobile devices.
+00:00:07,570 --> 00:00:11,110
+It provides a seamless experience across desktop, tablet, and mobile.
 

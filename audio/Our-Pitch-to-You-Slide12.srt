@@ -1,8 +1,20 @@
 1
-00:00:00,035 --> 00:00:00,568
+00:00:00,035 --> 00:00:00,546
 In summary,
 
 2
-00:00:00,592 --> 00:00:06,432
-your Ministry can also Create, Publish, and Host a website – just like TheMultimodalBible.org.
+00:00:00,568 --> 00:00:07,326
+ministries can create, publish, and host their own multimodal content for Family Ministry and Bible Studies.
+
+3
+00:00:07,349 --> 00:00:08,081
+Your Ministry.
+
+4
+00:00:08,522 --> 00:00:09,276
+Your Content.
+
+5
+00:00:09,323 --> 00:00:10,461
+Scripture at the center.
 

@@ -1,16 +1,16 @@
 1
-00:00:00,035 --> 00:00:04,307
-We created the "Ultimate PowerPoint Companion App" that helps do more with PowerPoint.
+00:00:00,070 --> 00:00:06,246
+We created the "PowerPoint Companion App" to help Ministries create Scripture centered content in new ways.
 
 2
-00:00:04,632 --> 00:00:07,291
+00:00:06,757 --> 00:00:09,764
 It handles creating quality voice overs with AI.
 
 3
-00:00:07,674 --> 00:00:10,042
+00:00:10,147 --> 00:00:12,609
 It has enhanced editing for displaying Scripture.
 
 4
-00:00:10,158 --> 00:00:17,601
-It can also handle cross-reference information from YouVersion. This app will be free and open source for personal and non-profit organizations.
+00:00:12,725 --> 00:00:20,898
+It can also handle cross-reference information from YouVersion.   This app will be free and open source for personal and non-profit organizations.
 

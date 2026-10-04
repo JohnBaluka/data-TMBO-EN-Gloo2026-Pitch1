@@ -1,7 +1,7 @@
 [
   {
     "index": 1,
-    "menuTitle": "",
+    "menuTitle": "Read, Listen, Watch, or Interact.",
     "pngSrc": "images/Our-Pitch-to-You-Slide1.png",
     "svgSrc": "images/Our-Pitch-to-You-Slide1.svg",
     "svgContent": "",
@@ -41,7 +41,7 @@
   },
   {
     "index": 2,
-    "menuTitle": "Many ways to Receive the Bible",
+    "menuTitle": "Ways to Experience the Bible",
     "pngSrc": "images/Our-Pitch-to-You-Slide2.png",
     "svgSrc": "images/Our-Pitch-to-You-Slide2.svg",
     "svgContent": "",
@@ -116,7 +116,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide3.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide3.srt",
-    "videoStart": 17.34,
+    "videoStart": 17.281,
     "transitionSeconds": 1
   },
   {
@@ -156,12 +156,12 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide4.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide4.srt",
-    "videoStart": 29.427999999999997,
+    "videoStart": 29.391,
     "transitionSeconds": 1
   },
   {
     "index": 5,
-    "menuTitle": "One Bible, Multiple Ways to Engage",
+    "menuTitle": "The Multimodal Bible - One Bible. Many ways to experience it.",
     "pngSrc": "images/Our-Pitch-to-You-Slide5.png",
     "svgSrc": "images/Our-Pitch-to-You-Slide5.svg",
     "svgContent": "",
@@ -196,12 +196,12 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide5.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide5.srt",
-    "videoStart": 46.833,
+    "videoStart": 50.696,
     "transitionSeconds": 1
   },
   {
     "index": 6,
-    "menuTitle": "Meet people where they are",
+    "menuTitle": "Power Your Ministry – Reach People In New Ways",
     "pngSrc": "images/Our-Pitch-to-You-Slide6.png",
     "svgSrc": "images/Our-Pitch-to-You-Slide6.svg",
     "svgContent": "",
@@ -236,7 +236,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide6.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide6.srt",
-    "videoStart": 68.406,
+    "videoStart": 71.352,
     "transitionSeconds": 1
   },
   {
@@ -276,12 +276,12 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide7.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide7.srt",
-    "videoStart": 78.322,
+    "videoStart": 82.894,
     "transitionSeconds": 1
   },
   {
     "index": 8,
-    "menuTitle": "The “Ultimate PowerPoint Companion App”",
+    "menuTitle": "The “PowerPoint Companion App” For Ministries",
     "pngSrc": "images/Our-Pitch-to-You-Slide8.png",
     "svgSrc": "images/Our-Pitch-to-You-Slide8.svg",
     "svgContent": "",
@@ -316,7 +316,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide8.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide8.srt",
-    "videoStart": 89.04,
+    "videoStart": 95.446,
     "transitionSeconds": 1
   },
   {
@@ -356,7 +356,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide9.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide9.srt",
-    "videoStart": 107.641,
+    "videoStart": 117.344,
     "transitionSeconds": 1
   },
   {
@@ -396,7 +396,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide10.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide10.srt",
-    "videoStart": 121.37700000000001,
+    "videoStart": 131.07999999999998,
     "transitionSeconds": 1
   },
   {
@@ -436,12 +436,12 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide11.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide11.srt",
-    "videoStart": 130.434,
+    "videoStart": 140.13699999999997,
     "transitionSeconds": 1
   },
   {
     "index": 12,
-    "menuTitle": "Meet people where they are",
+    "menuTitle": "Power Your Ministry – Reach People In New Ways.",
     "pngSrc": "images/Our-Pitch-to-You-Slide12.png",
     "svgSrc": "images/Our-Pitch-to-You-Slide12.svg",
     "svgContent": "",
@@ -476,7 +476,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide12.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide12.srt",
-    "videoStart": 136.136,
+    "videoStart": 145.83899999999997,
     "transitionSeconds": 1
   },
   {
@@ -516,7 +516,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide13.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide13.srt",
-    "videoStart": 143.56799999999998,
+    "videoStart": 157.29999999999998,
     "transitionSeconds": 1
   },
   {
@@ -556,7 +556,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide14.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide14.srt",
-    "videoStart": 166.85799999999998,
+    "videoStart": 169.51399999999998,
     "transitionSeconds": 0
   },
   {
@@ -596,7 +596,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide15.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide15.srt",
-    "videoStart": 171.55199999999996,
+    "videoStart": 174.20799999999997,
     "transitionSeconds": 0.7
   }
 ]

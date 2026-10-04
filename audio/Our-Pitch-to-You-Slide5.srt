@@ -1,12 +1,12 @@
 1
-00:00:00,070 --> 00:00:07,906
-In this demo, suppose I want to experience Matthew chapter 9. I can read the Scripture and interact with the content at my own pace.
+00:00:00,035 --> 00:00:06,258
+In this demo, let’s say I want to experience Matthew chapter 9. I can read and interact with the Scripture at my own pace.
 
 2
-00:00:08,510 --> 00:00:11,296
-I can listen and follow along while the passage with a narration.
+00:00:06,861 --> 00:00:09,728
+I can listen and follow along with the passage as it's narrated.
 
 3
-00:00:11,575 --> 00:00:20,573
-Or I can watch as the Scripture come alive as a slide show or a video on YouTube. Same Scripture. One experience. You choose how you receive it.
+00:00:10,542 --> 00:00:19,656
+Or I can watch as the Scripture unfolds as a slide show or a video on YouTube. Same Scripture. One experience. You choose how you receive it.
 
