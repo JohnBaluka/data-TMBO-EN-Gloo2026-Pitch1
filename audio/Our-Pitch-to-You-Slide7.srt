@@ -1,12 +1,12 @@
 1
-00:00:00,046 --> 00:00:04,434
-Why PowerPoint? It gives ministries a familiar, accessible way to create their own content.
+00:00:00,070 --> 00:00:05,747
+A common tool like PowerPoint gives ministries a familiar, accessible way to create their own content.
 
 2
-00:00:04,876 --> 00:00:07,872
+00:00:06,188 --> 00:00:09,288
 It also lets you add narration and turn your slides into a video,
 
 3
-00:00:08,081 --> 00:00:11,552
+00:00:09,567 --> 00:00:13,177
 and the ability to create interactive experiences keeps getting better.
 
