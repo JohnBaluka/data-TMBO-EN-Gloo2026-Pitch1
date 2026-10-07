@@ -1,7 +1,7 @@
 [
   {
     "index": 1,
-    "menuTitle": "",
+    "menuTitle": "Read, Listen, Watch, or Interact.",
     "pngSrc": "images/Our-Pitch-to-You-Slide1.png",
     "svgSrc": "images/Our-Pitch-to-You-Slide1.svg",
     "svgContent": "",
@@ -156,7 +156,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide4.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide4.srt",
-    "videoStart": 28.636,
+    "videoStart": 34.546,
     "transitionSeconds": 1
   },
   {
@@ -196,7 +196,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide5.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide5.srt",
-    "videoStart": 49.941,
+    "videoStart": 55.851,
     "transitionSeconds": 1
   },
   {
@@ -236,7 +236,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide6.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide6.srt",
-    "videoStart": 70.59700000000001,
+    "videoStart": 76.507,
     "transitionSeconds": 1
   },
   {
@@ -276,7 +276,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide7.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide7.srt",
-    "videoStart": 82.13900000000001,
+    "videoStart": 88.049,
     "transitionSeconds": 1
   },
   {
@@ -316,7 +316,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide8.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide8.srt",
-    "videoStart": 96.316,
+    "videoStart": 99.83500000000001,
     "transitionSeconds": 1
   },
   {
@@ -356,7 +356,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide9.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide9.srt",
-    "videoStart": 118.214,
+    "videoStart": 119.68900000000001,
     "transitionSeconds": 1
   },
   {
@@ -396,7 +396,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide10.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide10.srt",
-    "videoStart": 131.95,
+    "videoStart": 133.425,
     "transitionSeconds": 1
   },
   {
@@ -436,7 +436,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide11.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide11.srt",
-    "videoStart": 141.00699999999998,
+    "videoStart": 142.482,
     "transitionSeconds": 1
   },
   {
@@ -476,7 +476,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide12.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide12.srt",
-    "videoStart": 146.70899999999997,
+    "videoStart": 148.184,
     "transitionSeconds": 1
   },
   {
@@ -516,7 +516,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide13.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide13.srt",
-    "videoStart": 158.17,
+    "videoStart": 159.645,
     "transitionSeconds": 1
   },
   {
@@ -556,7 +556,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide14.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide14.srt",
-    "videoStart": 170.384,
+    "videoStart": 171.859,
     "transitionSeconds": 0
   },
   {
@@ -596,7 +596,7 @@
     "videoFile": "",
     "notesFile": "notes/Our-Pitch-to-You-Slide15.htm",
     "subtitlesFile": "audio/Our-Pitch-to-You-Slide15.srt",
-    "videoStart": 175.07799999999997,
+    "videoStart": 176.553,
     "transitionSeconds": 0.7
   }
 ]

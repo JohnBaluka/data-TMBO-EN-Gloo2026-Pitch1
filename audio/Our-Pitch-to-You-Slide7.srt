@@ -1,12 +1,12 @@
 1
-00:00:00,070 --> 00:00:05,747
+00:00:00,035 --> 00:00:05,596
 A common tool like PowerPoint gives ministries a familiar, accessible way to create their own content.
 
 2
-00:00:06,188 --> 00:00:09,288
-It also lets you add narration and turn your slides into a video,
+00:00:05,875 --> 00:00:07,245
+It also lets you add narration,
 
 3
-00:00:09,567 --> 00:00:13,177
+00:00:07,268 --> 00:00:10,786
 and the ability to create interactive experiences keeps getting better.
 
